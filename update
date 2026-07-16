@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Branson Jones — Economics · Financial Analysis · Automation</title>
+<meta name="description" content="Branson Jones is an economics student at Penn State working in financial analysis and building finance automations for small businesses.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,460;9..144,560;9..144,640&family=Geist:wght@400;500&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<div class="wrap">
+
+<nav class="nav" aria-label="Primary">
+  <a class="nav__mark" href="index.html">Branson K. Jones</a>
+  <a class="nav__cta" href="#contact">Get in touch →</a>
+</nav>
+
+<header class="split">
+  <div class="split__text">
+    <span class="kicker">Economics · Finance · Automation</span>
+    <h1 class="hero__title">I turn financial data into decisions people can actually use.</h1>
+    <p class="hero__sub">Financial Assistant at EIG Services LLC and a rising senior in Economics at Penn State. I prepare the reporting and analysis behind executive decisions, and I build the automation that is changing how that work gets done.</p>
+    <a class="chip" href="#work">See the work</a>
+  </div>
+  <figure class="split__proof">
+    <img class="portrait" src="assets/headshot.jpg" alt="Headshot of Branson Jones" width="800" height="800">
+  </figure>
+</header>
+
+<section id="about" class="split split--flip" aria-label="About">
+  <div class="split__text">
+    <span class="kicker">About</span>
+    <h2>Analysis is only half the job.</h2>
+    <p>I started in economics because I wanted to understand how decisions get made. Working beside a CFO taught me the other half: how they get communicated.</p>
+    <p>Most of my work sits at that intersection. I prepare the analysis, then translate it for the people who have to act on it, whether that is a board or a client who has never opened a 990.</p>
+    <p>Outside of finance I build websites and design clothing, which keeps me honest about one thing: presentation is part of the product.</p>
+  </div>
+  <div class="split__proof">
+    <ul class="facts">
+      <li><span class="k">Role</span><span class="v">Financial Assistant, EIG Services LLC</span></li>
+      <li><span class="k">Degree</span><span class="v">B.A. Economics, Penn State — May 2027</span></li>
+      <li><span class="k">Standing</span><span class="v">Rising senior</span></li>
+      <li><span class="k">Based</span><span class="v">Pittsburgh, PA</span></li>
+      <li><span class="k">Focus</span><span class="v">Financial reporting · Benchmarking · Automation</span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="work" class="split" aria-label="Experience">
+  <div class="split__text">
+    <span class="kicker">Experience</span>
+    <h2>What I actually do at EIG</h2>
+    <p>Supporting the CFO of a Monroeville, PA firm means the work is real, recurring, and reviewed. A sample of it:</p>
+  </div>
+  <div class="split__proof">
+    <ul class="worklist">
+      <li>Built complete financial statements, from the income statement through the statement of cash flows, out of public Form 990 filings for a fourteen-organization peer benchmarking study</li>
+      <li>Constructed ratio scorecards covering profitability, liquidity, leverage, and operating performance for board presentation</li>
+      <li>Perform monthly credit card, vision, and dental reconciliations across operational departments</li>
+      <li>Maintain direct care hours and wage analyses that feed leadership planning</li>
+      <li>Prepare variance analyses and ad hoc Excel summaries for executive decisions</li>
+    </ul>
+  </div>
+</section>
+
+<section id="tillbrook" class="split split--flip" aria-label="Tillbrook">
+  <div class="split__text">
+    <span class="kicker">Featured project</span>
+    <h2>Tillbrook Financial Systems</h2>
+    <p>Tillbrook started with an uncomfortable observation about my own job. A meaningful share of the work I do professionally, reconciliations, reporting packets, data pulls, and formatting, can now be automated with human oversight.</p>
+    <p>An owner comparing roughly $2,000 a month for an automated reporting system against $70,000 or more a year, all-in, for a junior analyst is not making a hard decision. I would rather be the one building the system than the one waiting to be compared to it.</p>
+    <p>Tillbrook pairs workflow automation with the financial analysis I already do professionally. The full site is in development.</p>
+    <a class="chip" href="#contact" aria-label="Ask about Tillbrook">Ask me about it</a>
+  </div>
+  <div class="split__proof">
+    <ul class="facts">
+      <li><span class="k">What</span><span class="v">Automation &amp; financial analysis for small businesses</span></li>
+      <li><span class="k">Why me</span><span class="v">I do this work manually now, so I know exactly what to automate</span></li>
+      <li><span class="k">Status</span><span class="v">Site launching soon</span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="writing" class="writing" aria-label="Writing">
+  <h2>Writing</h2>
+  <div class="cards">
+    <article class="card">
+      <a href="blog/ai-automation-small-business-finance.html">
+        <h3>What Building Automations Taught Me About Small Business Finance</h3>
+        <p>The most expensive work in a small business is often the least valuable, and that is exactly the work automation is best at.</p>
+        <span class="more">Read the post →</span>
+      </a>
+    </article>
+    <article class="card">
+      <a href="blog/nonprofit-benchmarking-operating-margins.html">
+        <h3>What Benchmarking Fourteen Nonprofits Taught Me About Operating Margins</h3>
+        <p>Public 990 filings are an underused education. Here is what a peer study of human services organizations shows about margins.</p>
+        <span class="more">Read the post →</span>
+      </a>
+    </article>
+    <article class="card">
+      <a href="blog/manual-reporting-2026.html">
+        <h3>The Reporting Work Small Businesses Shouldn't Be Doing Manually in 2026</h3>
+        <p>Reconciliation and monthly reporting have quietly become automation problems. Most owners haven't noticed yet.</p>
+        <span class="more">Read the post →</span>
+      </a>
+    </article>
+  </div>
+</section>
+
+<section id="contact" class="contact" aria-label="Contact">
+  <span class="kicker">Contact</span>
+  <h2>If the work above is relevant to yours, say hello.</h2>
+  <p>I am open to conversations about analyst roles, finance internships, and small business automation projects.</p>
+  <a class="chip" href="mailto:BKJ5230@psu.edu">BKJ5230@psu.edu</a>
+</section>
+
+<footer class="foot">
+  <span>© 2026 Branson K. Jones</span><span class="dot">·</span>
+  <a href="#about">About</a><span class="dot">·</span>
+  <a href="#work">Experience</a><span class="dot">·</span>
+  <a href="#writing">Writing</a><span class="dot">·</span>
+  <a href="https://www.linkedin.com/in/branson-jones-150345410/" rel="noopener">LinkedIn</a><span class="dot">·</span>
+  <a href="mailto:BKJ5230@psu.edu">Email</a>
+</footer>
+
+</div>
+</body>
+</html>
